@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=WPvGqX-TXP0&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vA
 * Full credit to Codepath (https://codepath.com/)
 
 ## Demo:
-Demo should include:
+Demo should include:  
 1. Add list of items  
 2. Deleting an item using long press  
 3. Show that the 'DONE status' is persistent by re-opening the app
