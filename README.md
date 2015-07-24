@@ -46,8 +46,8 @@ https://www.youtube.com/watch?v=WPvGqX-TXP0&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vA
 
 ## Demo:
 Demo should include:
-1. Add list of items
-2. Deleting an item using long press
+1. Add list of items  
+2. Deleting an item using long press  
 3. Show that the 'DONE status' is persistent by re-opening the app
 
 ![Video Walkthrough - dummy](todoDemo2.gif)
